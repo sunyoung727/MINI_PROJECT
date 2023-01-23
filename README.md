@@ -8,3 +8,6 @@ https://dacon.io/competitions/official/236031/overview/description
 
 ## Students' Academic Performance 예측
 https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data
+
+## 주차수요 예측 AI 
+https://dacon.io/competitions/official/235745/overview/description
